@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="tab_select_color" format="color|reference"></attr>
+    <attr name="tab_unselect_color" format="color|reference"></attr>
+    <attr name="tab_indicator" format="reference|color"></attr>
+    <attr name="tab_visiable_count" format="integer"></attr>
+    <attr name="image_radio_height" format="float"></attr>
+    <attr name="indicator_height" format="dimension"></attr>
+
+    <declare-styleable name="ImagePagerIndicator">
+        <attr name="tab_select_color"></attr>
+        <attr name="tab_unselect_color"></attr>
+        <attr name="tab_indicator"></attr>
+        <attr name="tab_visiable_count"></attr>
+        <attr name="image_radio_height"></attr>
+        <attr name="indicator_height"></attr>
+    </declare-styleable>
+</resources>
